@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9dSwzaGeRTcY7urIh5on82MeBuX3yGuwu6EekHfep3BGbZnbc2J8NtlVrwZ8sQF2eYgTYrQMjBOazCVcB+H+kg==",
+  "success": true,
+  "projectFilePath": "E:\\Cognizant\\STAGE-4\\Cloud_8thAss\\MyFirstWepApi\\MyFirstWepApi\\MyFirstWepApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\com\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
